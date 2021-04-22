@@ -1,0 +1,9 @@
+.todo__list{
+          display: flex;
+          justify-content: center;
+          margin-top: 10px;
+}
+
+.todo__list p{
+          margin-right: 10px;
+}
